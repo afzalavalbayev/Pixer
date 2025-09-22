@@ -6,6 +6,11 @@
     box-sizing: border-box;
 }
 
+#header{
+    width: 1300px;
+    margin: auto;
+}
+
 .nav{
     display: flex;
     font-family: 'Open Sans';
